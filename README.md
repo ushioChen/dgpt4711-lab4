@@ -1,2 +1,2 @@
-# dgpt4711-lab2
-Starter project for DGPT COMP 4711 Lab 2
+# dgpt4711-lab4
+Starter project for DGPT COMP 4711 Lab 4
