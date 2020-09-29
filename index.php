@@ -10,9 +10,9 @@
 			// This is a super simple script, NOT CodeIgniter-specific
 			
 			// Load files
-			$f_adjectives = fopen("adjectives", "r");
-			$f_colours = fopen("colours", "r");
-			$f_nouns = fopen("nouns", "r");
+			$f_adjectives = fopen("adjectives", "Most");
+			$f_colours = fopen("colours", "red");
+			$f_nouns = fopen("nouns", "RMB");
 
 			// Create Arrays
 			$adjectives = array();
